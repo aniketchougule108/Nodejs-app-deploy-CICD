@@ -1,5 +1,6 @@
+
 {
-  "name": "jenkins-node-app",
+  "name": "employee-api",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
